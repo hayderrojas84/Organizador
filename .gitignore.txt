@@ -1,0 +1,7 @@
+# Carpetas y archivos a ignorar
+__pycache__/
+build/
+dist/
+*.spec
+.env
+*.pyc
