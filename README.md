@@ -20,9 +20,9 @@ Este proyecto organiza automáticamente los archivos de una carpeta (como Descar
 
 1. Abre Visual Studio Code.
 2. Asegúrate de tener Python instalado.
-3. Cambia la ruta de la carpeta que quieres organizar en `organizador.py`.
+3. Cambia la ruta de la carpeta que quieres organizar en `automatizacion.py`.
 4. Ejecuta el archivo.
 
 ```bash
-python organizador.py
+python automatizacion.py
 
